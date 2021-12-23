@@ -1,0 +1,20 @@
+{
+  "name": "l-blog",
+  "version": "1.0.0",
+  "description": "个人技术博客 记录一下前端路上的学习经历和知识点",
+  "main": "index.js",
+  "scripts": {
+    "serve": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "deploy": "deploy.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/chen-yiliang/l-blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  }
+}
