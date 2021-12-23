@@ -1,5 +1,5 @@
 {
-  "name": "l-blog",
+  "name": "studyBlog",
   "version": "1.0.0",
   "description": "个人技术博客 记录一下前端路上的学习经历和知识点",
   "main": "index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://gitee.com/chen-yiliang/l-blog.git"
+    "url": ""
   },
   "author": "",
   "license": "ISC",

@@ -24,7 +24,7 @@ module.exports = {
       ]
     } // 侧边栏配置
   },
-  base: '/L-Blog/',
-  title: 'L-BLOG',
+  base: '/studyBlog/',
+  title: 'studyBlog',
   description: '个人技术博客'
 }
